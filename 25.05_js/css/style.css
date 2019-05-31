@@ -1,0 +1,35 @@
+.input{
+  display: inline-block
+}
+
+.jskb-calculator{
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  background: grey;
+  padding: 20px;
+  border: 2px solid blue;
+
+}
+
+.jskb-calculator .button-block button{
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+}
+
+.jskb-calculator .inputs-block .input label {
+  display: block;
+}
+
+.input {
+  padding: 20px;
+}
+
+hr{
+  height: 3px;
+  background: white;
+}
+input{
+  font-size: 20px;
+}
